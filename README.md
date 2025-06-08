@@ -6,6 +6,8 @@
 
 This repository contains my lab work for the TNM119 course, covering fundamental concepts in Artificial Intelligence and Machine Learning. The labs were developed in PyCharm using Conda environments for dependency management.
 
+Companion project: https://github.com/Skill-issue-coding/ml-model-for-image-classification
+
 ## 🧪 Labs Overview
 
 | Lab | Topic | Key Technologies |
