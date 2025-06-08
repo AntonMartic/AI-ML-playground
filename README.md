@@ -4,19 +4,20 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-purple)
 ![Conda](https://img.shields.io/badge/Conda-Environment-green)
 
-This repository contains my lab work for the TNM119 course, covering fundamental concepts in Artificial Intelligence and Machine Learning. The labs were developed in PyCharm using Conda environments for dependency management.
+This repository contains my lab work for the TNM119 - Introduction to AI & Machine Learning course at Linköping University. The labs cover fundamental concepts, from search and optimization to model fairness and explainability, and were developed in PyCharm using Conda environments for dependency management.
 
 Companion project: https://github.com/Skill-issue-coding/ml-model-for-image-classification
 
 ## 🧪 Labs Overview
 
-| Lab | Topic | Key Technologies |
-|-----|-------|------------------|
-| 1 | Image Classification with HOG + SVM | OpenCV, scikit-learn |
-| 2 | Decision Trees & Random Forests | scikit-learn, Matplotlib |
-| 3 | Model Fairness Evaluation | NumPy, Pandas |
-| 4 | Gradient Descent Implementation | NumPy, Matplotlib |
-| 5 | Explainable Boosting Machines | interpretML |
+This table provides an accurate summary of the lab assignments based on the course material.
+
+| Lab   | Title/Focus                               | Key Concepts & Technologies                                                                                             |
+|-------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **0** | Python & NumPy Warm-up                    | Core Python syntax, data structures, loops, functions, Monte Carlo method for Pi estimation, **NumPy**                    |
+| **1** | Search Algorithms & Supervised Learning   | Uninformed Search (BFS, DFS, UCS), State-Space Graphs, LLM reasoning, SVM, Decision Trees, Random Forests, **scikit-learn** |
+| **2** | Optimization & Evolutionary Algorithms    | Gradient Descent, learning rates, cost functions, convergence analysis, Linear Regression, Evolutionary Algorithms (N-Rooks problem), **NumPy**, **Matplotlib** |
+| **3** | Responsible AI: Fairness & Explainability | EU AI Act, Fairness Metrics (Demographic Parity, Equal Opportunity), XAI, Explainable Boosting Machines (EBM), **Pandas**, **interpretML** |
 
 ## 🛠️ Technical Setup
 
@@ -35,3 +36,12 @@ conda activate tnm119
 
 # Install requirements
 pip install -r requirements.txt
+
+# Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+interpret
+```
+
